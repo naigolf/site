@@ -1,21 +1,21 @@
 [
     {
-        "name": "Link",
+        "name": "fb",
         "color": "red",
         "icon": "web",
         "url": "https://www.facebook.com/naigolf14"
 	},
     {
-        "name": "Link",
+        "name": "Youtube",
         "color": "red",
         "icon": "web",
         "url": "https://www.youtube.com/naigolf"
 	},
     {
-        "name": "Link",
+        "name": "Tel",
         "color": "red",
         "icon": "web",
-        "url": "https://google.com"
+        "url": "tel:+66904129099"
 	},
     {
         "name": "Link",

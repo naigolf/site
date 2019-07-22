@@ -17,5 +17,12 @@
         "icon": "web",
         "url": "tel:+66904129099"
 	},
+	
+    {
+        "name": "medium",
+        "color": "red",
+        "icon": "web",
+        "url": "https://medium.com/@thiravut.golf"
+	}
 
 ]

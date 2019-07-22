@@ -17,10 +17,5 @@
         "icon": "web",
         "url": "tel:+66904129099"
 	},
-    {
-        "name": "Link",
-        "color": "red",
-        "icon": "web",
-        "url": "https://google.com"
-	}
+
 ]
